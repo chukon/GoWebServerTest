@@ -1,0 +1,12 @@
+{
+  "name": "Web Test",
+  "description": "Web Test",
+  "keywords": [
+    "web-test",
+    "go",
+    "sample",
+    "example"
+  ],
+  "website": "https://github.com/chukon/GoWebServerTest",
+  "repository": "https://github.com/chukon/GoWebServerTest"
+}
